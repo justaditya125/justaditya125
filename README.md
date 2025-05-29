@@ -10,13 +10,13 @@
     <img src="https://komarev.com/ghpvc/?username=AdityaSah57671&label=Profile%20views&color=blueviolet&style=flat-square" alt="AdityaSah57671">
   </a>
   <a href="https://github.com/justaditya125">
-    <img src="https://img.shields.io/github/followers/AdityaSah57671?label=Followers&style=flat-square&color=blue" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/justaditya125?label=Followers&style=flat-square&color=blue" alt="GitHub Followers">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/justaditya125">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;ML%20%7C%20AI%20Enthusiast;Always%20Learning;Kotlin%20%7C%20Firebase%20%7C%20Gemini%20API;CUJobConnect+Developer&center=true&width=500&height=45&font=Fira%20Code&color=00C4CC&vCenter=true&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;ML%20%7C%20AI%20Enthusiast;Always%20Learning;Kotlin%20%7C%20Firebase%20%7C%20Gemini%20API;Data+Analyst&center=true&width=500&height=45&font=Fira%20Code&color=00C4CC&vCenter=true&pause=1000">
   </a>
 </p>
 
