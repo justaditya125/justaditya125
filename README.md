@@ -101,7 +101,7 @@
  <td width="50%" valign="top">
     <h2>💬 Let's Collaborate!</h2>
     <p>If you have a web project in mind or need help with Flask + MySQL or data insights, I'm all ears!</p>
-    <p>Contact me at <a href="mailto:adityasah57671@gmail.com">adityasah57671@gmail.com</a> or on <a href="https://www.linkedin.com/in/aditya-sah-430bb4210/">LinkedIn</a>.</p>
+    <p>Contact me at <a href="mailto:adityasah57671@gmail.com">adityasah57671@gmail.com</a> or on <a href="https://www.linkedin.com/in/aditya-sah-438409262/">LinkedIn</a>.</p>
   </td>
   <td width="50%" valign="top">
     <h2>📣 Feedback Welcome</h2>
